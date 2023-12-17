@@ -1,1 +1,3 @@
-# Win-ChatGPT-China
+ChatGPT 64位 32位兼容  已在Windows11测试成功 Linux Mac版本正在开发中敬请期待中……
+敏感区域中国百分百可用 需要有自己的账号 无需科学上网环境 
+
